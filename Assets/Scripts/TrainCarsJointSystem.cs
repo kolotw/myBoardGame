@@ -4,10 +4,10 @@ using UnityEngine;
 
 public class TrainCarsJointSystem : MonoBehaviour
 {
-    public Transform trainHead; // ¤w¦s¦bªº¤õ¨®ÀY
-    public GameObject trainCarPrefab; // ¨®´[¹w»sÅé
-    public int carCount = 5; // ¨®´[¼Æ¶q
-    public float distanceBetweenCars = 2.0f; // ¨®´[¶¡¶Z
+    public Transform trainHead; // ï¿½wï¿½sï¿½bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Y
+    public GameObject trainCarPrefab; // ï¿½ï¿½ï¿½[ï¿½wï¿½sï¿½ï¿½
+    public int carCount = 5; // ï¿½ï¿½ï¿½[ï¿½Æ¶q
+    public float distanceBetweenCars = 2.0f; // ï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½Z
 
     private List<GameObject> trainCars = new List<GameObject>();
 
@@ -15,7 +15,7 @@ public class TrainCarsJointSystem : MonoBehaviour
     {
         if (trainHead == null)
         {
-            Debug.LogError("½Ð«ü©w¤õ¨®ÀYª«Åé¡I");
+            Debug.LogError("ï¿½Ð«ï¿½ï¿½wï¿½ï¿½ï¿½ï¿½ï¿½Yï¿½ï¿½ï¿½ï¿½I");
             return;
         }
 
@@ -24,50 +24,50 @@ public class TrainCarsJointSystem : MonoBehaviour
 
     void CreateTrainCarsWithJoints()
     {
-        // ½T«O¤õ¨®ÀY¦³Rigidbody
+        // ï¿½Tï¿½Oï¿½ï¿½ï¿½ï¿½ï¿½Yï¿½ï¿½Rigidbody
         Rigidbody headRigidbody = trainHead.GetComponent<Rigidbody>();
         if (headRigidbody == null)
         {
             headRigidbody = trainHead.gameObject.AddComponent<Rigidbody>();
-            // ¥Ñ©ó¤õ¨®ÀY¥ÑNavMeshAgent±±¨î¡A±NRigidbody³]¬°¹B°Ê¾Çªº
+            // ï¿½Ñ©ï¿½ï¿½ï¿½ï¿½ï¿½Yï¿½ï¿½NavMeshAgentï¿½ï¿½ï¿½ï¿½Aï¿½NRigidbodyï¿½]ï¿½ï¿½ï¿½Bï¿½Ê¾Çªï¿½
             headRigidbody.isKinematic = true;
             headRigidbody.interpolation = RigidbodyInterpolation.Interpolate;
         }
 
-        // °O¿ý«e¤@¸`¨®´[/¤õ¨®ÀY
+        // ï¿½Oï¿½ï¿½ï¿½eï¿½@ï¿½`ï¿½ï¿½ï¿½[/ï¿½ï¿½ï¿½ï¿½ï¿½Y
         Transform previousTransform = trainHead;
         Rigidbody previousRigidbody = headRigidbody;
 
-        // ³Ð«Ø¨®´[¨Ã¥ÎÃö¸`³s±µ
+        // ï¿½Ð«Ø¨ï¿½ï¿½[ï¿½Ã¥ï¿½ï¿½ï¿½ï¿½`ï¿½sï¿½ï¿½
         for (int i = 0; i < carCount; i++)
         {
-            // ¦b«e¤@¸`«á¤è¥Í¦¨·s¨®´[
+            // ï¿½bï¿½eï¿½@ï¿½`ï¿½ï¿½ï¿½Í¦ï¿½ï¿½sï¿½ï¿½ï¿½[
             Vector3 carPosition = previousTransform.position - previousTransform.forward * distanceBetweenCars;
             GameObject car = Instantiate(trainCarPrefab, carPosition, previousTransform.rotation);
             trainCars.Add(car);
 
-            // ½T«O¨®´[¦³Rigidbody
+            // ï¿½Tï¿½Oï¿½ï¿½ï¿½[ï¿½ï¿½Rigidbody
             Rigidbody carRigidbody = car.GetComponent<Rigidbody>();
             if (carRigidbody == null)
             {
                 carRigidbody = car.AddComponent<Rigidbody>();
-                // ³]¸m¾A¦Xªºª«²zÄÝ©Ê
+                // ï¿½]ï¿½mï¿½Aï¿½Xï¿½ï¿½ï¿½ï¿½ï¿½zï¿½Ý©ï¿½
                 carRigidbody.mass = 100;
-                carRigidbody.drag = 1.0f;
-                carRigidbody.angularDrag = 5.0f;
+                carRigidbody.linearDamping = 1.0f;
+                carRigidbody.angularDamping = 5.0f;
                 carRigidbody.interpolation = RigidbodyInterpolation.Interpolate;
             }
 
-            // ²K¥[Ãö¸`¨ì·í«e¨®´[
+            // ï¿½Kï¿½[ï¿½ï¿½ï¿½`ï¿½ï¿½ï¿½ï¿½eï¿½ï¿½ï¿½[
             ConfigurableJoint joint = car.AddComponent<ConfigurableJoint>();
 
-            // ³]¸mÃö¸`³s±µ¨ì«e¤@¸`
+            // ï¿½]ï¿½mï¿½ï¿½ï¿½`ï¿½sï¿½ï¿½ï¿½ï¿½eï¿½@ï¿½`
             joint.connectedBody = previousRigidbody;
 
-            // ³]¸mÃö¸`°Ñ¼Æ
+            // ï¿½]ï¿½mï¿½ï¿½ï¿½`ï¿½Ñ¼ï¿½
             SetupTrainJoint(joint);
 
-            // ·í«e¨®´[¦¨¬°¤U¤@¸`ªº"«e¤@¸`"
+            // ï¿½ï¿½ï¿½eï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½Uï¿½@ï¿½`ï¿½ï¿½"ï¿½eï¿½@ï¿½`"
             previousTransform = car.transform;
             previousRigidbody = carRigidbody;
         }
@@ -75,34 +75,34 @@ public class TrainCarsJointSystem : MonoBehaviour
 
     void SetupTrainJoint(ConfigurableJoint joint)
     {
-        // ³]¸m³s±µÂI
-        joint.anchor = new Vector3(0, 0, distanceBetweenCars / 2); // ¨®´[«e¤è
-        joint.connectedAnchor = new Vector3(0, 0, -distanceBetweenCars / 2); // ³s±µ¨ì«e¤@¸`ªº«á¤è
+        // ï¿½]ï¿½mï¿½sï¿½ï¿½ï¿½I
+        joint.anchor = new Vector3(0, 0, distanceBetweenCars / 2); // ï¿½ï¿½ï¿½[ï¿½eï¿½ï¿½
+        joint.connectedAnchor = new Vector3(0, 0, -distanceBetweenCars / 2); // ï¿½sï¿½ï¿½ï¿½ï¿½eï¿½@ï¿½`ï¿½ï¿½ï¿½ï¿½ï¿½
 
-        // ¦ì¸m¦Û¥Ñ«×
+        // ï¿½ï¿½mï¿½Û¥Ñ«ï¿½
         joint.xMotion = ConfigurableJointMotion.Limited;
         joint.yMotion = ConfigurableJointMotion.Limited;
         joint.zMotion = ConfigurableJointMotion.Limited;
 
-        // ±ÛÂà¦Û¥Ñ«×
+        // ï¿½ï¿½ï¿½ï¿½Û¥Ñ«ï¿½
         joint.angularXMotion = ConfigurableJointMotion.Limited;
         joint.angularYMotion = ConfigurableJointMotion.Free;
-        joint.angularZMotion = ConfigurableJointMotion.Limited; // ¤¹³\Y¶b±ÛÂà¡]Âà¦V¡^
+        joint.angularZMotion = ConfigurableJointMotion.Limited; // ï¿½ï¿½ï¿½\Yï¿½bï¿½ï¿½ï¿½ï¿½]ï¿½ï¿½Vï¿½^
 
-        // ½u©Ê­­¨î¡]¦ì¸m¡^
+        // ï¿½uï¿½Ê­ï¿½ï¿½ï¿½]ï¿½ï¿½mï¿½^
         SoftJointLimit limit = new SoftJointLimit();
-        limit.limit = 0.1f; // ¥i²¾°Ê½d³ò¡]¦Ì¡^
+        limit.limit = 0.1f; // ï¿½iï¿½ï¿½ï¿½Ê½dï¿½ï¿½]ï¿½Ì¡^
         joint.linearLimit = limit;
 
-        // ¨¤«×­­¨î
+        // ï¿½ï¿½ï¿½×­ï¿½ï¿½ï¿½
         SoftJointLimit angularLimit = new SoftJointLimit();
-        angularLimit.limit = 30.0f; // ³Ì¤j¨¤«×¡]«×¡^
+        angularLimit.limit = 30.0f; // ï¿½Ì¤jï¿½ï¿½ï¿½×¡]ï¿½×¡^
 
         joint.highAngularXLimit = angularLimit;
         joint.lowAngularXLimit = angularLimit;
         joint.angularYLimit = angularLimit;
 
-        // ³]¸m¼uÂ®©Mªý¥§¡]¦ì¸m¡^
+        // ï¿½]ï¿½mï¿½uÂ®ï¿½Mï¿½ï¿½ï¿½ï¿½ï¿½]ï¿½ï¿½mï¿½^
         JointDrive drive = new JointDrive();
         drive.positionSpring = 50.0f;
         drive.positionDamper = 50.0f;
@@ -112,7 +112,7 @@ public class TrainCarsJointSystem : MonoBehaviour
         joint.yDrive = drive;
         joint.zDrive = drive;
 
-        // ³]¸m¼uÂ®©Mªý¥§¡]¨¤«×¡^
+        // ï¿½]ï¿½mï¿½uÂ®ï¿½Mï¿½ï¿½ï¿½ï¿½ï¿½]ï¿½ï¿½ï¿½×¡^
         JointDrive angularDrive = new JointDrive();
         angularDrive.positionSpring = 10.0f;
         angularDrive.positionDamper = 50.0f;
@@ -121,12 +121,12 @@ public class TrainCarsJointSystem : MonoBehaviour
         joint.angularXDrive = angularDrive;
         joint.angularYZDrive = angularDrive;
 
-        // Ãö³¬¸I¼²©M³]¸mµL­­Â_µõ¤O
+        // ï¿½ï¿½ï¿½ï¿½ï¿½Iï¿½ï¿½ï¿½Mï¿½]ï¿½mï¿½Lï¿½ï¿½ï¿½_ï¿½ï¿½ï¿½O
         joint.enableCollision = false;
         joint.breakForce = Mathf.Infinity;
         joint.breakTorque = Mathf.Infinity;
 
-        // §ë¼v³]¸m¡]À°§UÃ­©w¼ÒÀÀ¡^
+        // ï¿½ï¿½vï¿½]ï¿½mï¿½]ï¿½ï¿½ï¿½UÃ­ï¿½wï¿½ï¿½ï¿½ï¿½ï¿½^
         joint.projectionMode = JointProjectionMode.PositionAndRotation;
         joint.projectionDistance = 0.1f;
         joint.projectionAngle = 10f;
