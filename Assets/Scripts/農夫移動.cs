@@ -15,11 +15,16 @@ public class 農夫移動 : MonoBehaviour
         動畫控制器 = GetComponent<Animator>();
         if (目標 != null)
         {
-            導航.SetDestination(目標.position);
-            動畫控制器.SetBool("isWalking", true);
+            //導航.SetDestination(目標.position);
+            //動畫控制器.SetBool("isWalking", true);
         }
     }
-
+    public void 下一個目標(Transform nextPos)
+    {
+        目標 = nextPos;
+        導航.SetDestination(目標.position);
+        動畫控制器.SetBool("isWalking", true);
+    }
     // Update is called once per frame
     void Update()
     {
