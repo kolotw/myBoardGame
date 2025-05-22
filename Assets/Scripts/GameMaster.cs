@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.UI;
 
 public class GameMaster : MonoBehaviour
 {
@@ -6,21 +7,26 @@ public class GameMaster : MonoBehaviour
     public GameObject[] à︹;
     public int 浑翴计;
     int ヘ玡竚 = 0;
+    public bool 耏浑 = false;
+    public Text 翴计ゅ;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         à︹ = GameObject.FindGameObjectsWithTag("Player");
+        翴计ゅ.text = "翴计0";
     }
 
     // Update is called once per frame
     void Update()
     {
+        if (!耏浑) return;
         if (Input.GetKeyUp(KeyCode.Mouse1)) //狦(秨)菲公龄
         {
             //秈︽耏浑笆
             浑翴计 = Random.Range(1, 4);
             print(浑翴计);
+            翴计ゅ.text = "翴计 " + 浑翴计;
 
             int 玡秈翴计 = (浑翴计 + ヘ玡竚) ;
             if (玡秈翴计 >= 隔絬竚.Length) {

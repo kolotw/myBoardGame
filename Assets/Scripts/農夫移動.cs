@@ -13,11 +13,11 @@ public class 農夫移動 : MonoBehaviour
     {
         導航 = GetComponent<NavMeshAgent>();
         動畫控制器 = GetComponent<Animator>();
-        if (目標 != null)
-        {
-            //導航.SetDestination(目標.position);
-            //動畫控制器.SetBool("isWalking", true);
-        }
+        //if (目標 != null)
+        //{
+        //    //導航.SetDestination(目標.position);
+        //    //動畫控制器.SetBool("isWalking", true);
+        //}
     }
     public void 下一個目標(Transform nextPos)
     {
@@ -39,11 +39,11 @@ public class 農夫移動 : MonoBehaviour
         {
             Debug.Log("動畫已完成!");
             // 在這裡執行動畫完成後的邏輯
-            GameObject.Find("/00GameMaster").GetComponent<GameManager>().可擲骰子 = true;
+            GameObject.Find("/00GameMaster").GetComponent<GameMaster>().可擲骰子 = true;
         }
         else
         {
-            GameObject.Find("/00GameMaster").GetComponent<GameManager>().可擲骰子 = false;
+            GameObject.Find("/00GameMaster").GetComponent<GameMaster>().可擲骰子 = false;
         }
     }
 }
