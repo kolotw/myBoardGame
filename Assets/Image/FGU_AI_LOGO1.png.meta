@@ -1,0 +1,2155 @@
+fileFormatVersion: 2
+guid: 10545fff2cb80824688edf59e5a22e29
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2861590302473219273
+    second: FGU_AI_LOGO1_0
+  - first:
+      213: -6637248059047734270
+    second: FGU_AI_LOGO1_1
+  - first:
+      213: -5242161886036591241
+    second: FGU_AI_LOGO1_2
+  - first:
+      213: -4498292745357399081
+    second: FGU_AI_LOGO1_3
+  - first:
+      213: -5779662756386899165
+    second: FGU_AI_LOGO1_4
+  - first:
+      213: -7435336241757508190
+    second: FGU_AI_LOGO1_5
+  - first:
+      213: -1867842663551087460
+    second: FGU_AI_LOGO1_6
+  - first:
+      213: 3014461405289839045
+    second: FGU_AI_LOGO1_7
+  - first:
+      213: 849320996154996332
+    second: FGU_AI_LOGO1_8
+  - first:
+      213: -7446857418567308009
+    second: FGU_AI_LOGO1_9
+  - first:
+      213: 1740344766367694917
+    second: FGU_AI_LOGO1_10
+  - first:
+      213: -5661571042492172742
+    second: FGU_AI_LOGO1_11
+  - first:
+      213: 1161801601296944383
+    second: FGU_AI_LOGO1_12
+  - first:
+      213: -4665207973341406783
+    second: FGU_AI_LOGO1_13
+  - first:
+      213: 4217564689371626660
+    second: FGU_AI_LOGO1_14
+  - first:
+      213: 7302970338944664283
+    second: FGU_AI_LOGO1_15
+  - first:
+      213: 954323018050700898
+    second: FGU_AI_LOGO1_16
+  - first:
+      213: -3401105428215149853
+    second: FGU_AI_LOGO1_17
+  - first:
+      213: 679727491839340133
+    second: FGU_AI_LOGO1_18
+  - first:
+      213: -5794285936430776355
+    second: FGU_AI_LOGO1_19
+  - first:
+      213: 4316749804293398076
+    second: FGU_AI_LOGO1_20
+  - first:
+      213: -266036864172143864
+    second: FGU_AI_LOGO1_21
+  - first:
+      213: 6149698910191143346
+    second: FGU_AI_LOGO1_22
+  - first:
+      213: -5313127518474785398
+    second: FGU_AI_LOGO1_23
+  - first:
+      213: -8523126321855234529
+    second: FGU_AI_LOGO1_24
+  - first:
+      213: -3021376683049607040
+    second: FGU_AI_LOGO1_25
+  - first:
+      213: 1032421119423556681
+    second: FGU_AI_LOGO1_26
+  - first:
+      213: 3912042869145450417
+    second: FGU_AI_LOGO1_27
+  - first:
+      213: -2495249315107878566
+    second: FGU_AI_LOGO1_28
+  - first:
+      213: 565820997556330687
+    second: FGU_AI_LOGO1_29
+  - first:
+      213: -172356584186113770
+    second: FGU_AI_LOGO1_30
+  - first:
+      213: -8664495791367519304
+    second: FGU_AI_LOGO1_31
+  - first:
+      213: 3325261967752213132
+    second: FGU_AI_LOGO1_32
+  - first:
+      213: -8327181907607978009
+    second: FGU_AI_LOGO1_33
+  - first:
+      213: 3500345824462090531
+    second: FGU_AI_LOGO1_34
+  - first:
+      213: 2314733569464914123
+    second: FGU_AI_LOGO1_35
+  - first:
+      213: -1965870485817592500
+    second: FGU_AI_LOGO1_36
+  - first:
+      213: -7326684737941048554
+    second: FGU_AI_LOGO1_37
+  - first:
+      213: 4614330908599606872
+    second: FGU_AI_LOGO1_38
+  - first:
+      213: 4092068975198934275
+    second: FGU_AI_LOGO1_39
+  - first:
+      213: -7731744473570942994
+    second: FGU_AI_LOGO1_40
+  - first:
+      213: 6753695132169136467
+    second: FGU_AI_LOGO1_41
+  - first:
+      213: 8189262818965740061
+    second: FGU_AI_LOGO1_42
+  - first:
+      213: 5133236033527458029
+    second: FGU_AI_LOGO1_43
+  - first:
+      213: -946829133153263534
+    second: FGU_AI_LOGO1_44
+  - first:
+      213: 7294825098224222228
+    second: FGU_AI_LOGO1_45
+  - first:
+      213: -578501339102945960
+    second: FGU_AI_LOGO1_46
+  - first:
+      213: -663969234729381858
+    second: FGU_AI_LOGO1_47
+  - first:
+      213: 1463813385372202406
+    second: FGU_AI_LOGO1_48
+  - first:
+      213: 4324807016758019366
+    second: FGU_AI_LOGO1_49
+  - first:
+      213: 6893473797176653508
+    second: FGU_AI_LOGO1_50
+  - first:
+      213: 2705630769018182936
+    second: FGU_AI_LOGO1_51
+  - first:
+      213: 4520475747289365284
+    second: FGU_AI_LOGO1_52
+  - first:
+      213: -3920517909121841210
+    second: FGU_AI_LOGO1_53
+  - first:
+      213: -4693082211797240305
+    second: FGU_AI_LOGO1_54
+  - first:
+      213: -5056731188452622676
+    second: FGU_AI_LOGO1_55
+  - first:
+      213: -1819813657731693288
+    second: FGU_AI_LOGO1_56
+  - first:
+      213: 8597455965813270078
+    second: FGU_AI_LOGO1_57
+  - first:
+      213: -5344541268958262074
+    second: FGU_AI_LOGO1_58
+  - first:
+      213: -5777958276921373383
+    second: FGU_AI_LOGO1_59
+  - first:
+      213: -4570003110082168232
+    second: FGU_AI_LOGO1_60
+  - first:
+      213: 2679309977369230778
+    second: FGU_AI_LOGO1_61
+  - first:
+      213: -8133960491266633942
+    second: FGU_AI_LOGO1_62
+  - first:
+      213: 7558155866161719941
+    second: FGU_AI_LOGO1_63
+  - first:
+      213: 3971558403539239609
+    second: FGU_AI_LOGO1_64
+  - first:
+      213: 8887244182703764917
+    second: FGU_AI_LOGO1_65
+  - first:
+      213: -39787120434865626
+    second: FGU_AI_LOGO1_66
+  - first:
+      213: -8484729515737267357
+    second: FGU_AI_LOGO1_67
+  - first:
+      213: -6005897868616498619
+    second: FGU_AI_LOGO1_68
+  - first:
+      213: 7933757537186448003
+    second: FGU_AI_LOGO1_69
+  - first:
+      213: -6527147553221064697
+    second: FGU_AI_LOGO1_70
+  - first:
+      213: 1394320455148987638
+    second: FGU_AI_LOGO1_71
+  - first:
+      213: 1726916201865839087
+    second: FGU_AI_LOGO1_72
+  - first:
+      213: 2046331189634702309
+    second: FGU_AI_LOGO1_73
+  - first:
+      213: 8254817659706661562
+    second: FGU_AI_LOGO1_74
+  - first:
+      213: 7573139187681063258
+    second: FGU_AI_LOGO1_75
+  - first:
+      213: 4974746919402079661
+    second: FGU_AI_LOGO1_76
+  - first:
+      213: 3925529701077989704
+    second: FGU_AI_LOGO1_77
+  - first:
+      213: -3281119766268488181
+    second: FGU_AI_LOGO1_78
+  - first:
+      213: -6030398435759044755
+    second: FGU_AI_LOGO1_79
+  - first:
+      213: -8128158584515373691
+    second: FGU_AI_LOGO1_80
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_0
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 572
+        width: 153
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733916008c69948d0800000000000000
+      internalID: -2861590302473219273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_1
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 596
+        width: 137
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2041f425e02c3e3a0800000000000000
+      internalID: -6637248059047734270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_2
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 653
+        width: 63
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d72bfe9891047b0800000000000000
+      internalID: -5242161886036591241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_3
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 572
+        width: 153
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db6141c49ad291c0800000000000000
+      internalID: -4498292745357399081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 562
+        width: 214
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bf00458538acfa0800000000000000
+      internalID: -5779662756386899165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_5
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 527
+        width: 84
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ada47c051160d890800000000000000
+      internalID: -7435336241757508190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_6
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 422
+        width: 59
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cc7b66ef61416e0800000000000000
+      internalID: -1867842663551087460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_7
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 527
+        width: 84
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9fc634da485d920800000000000000
+      internalID: 3014461405289839045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_8
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 562
+        width: 214
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66791432f469cb00800000000000000
+      internalID: 849320996154996332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_9
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 169
+        width: 1067
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d205902a277a890800000000000000
+      internalID: -7446857418567308009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_10
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 349
+        width: 109
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5408e022852f62810800000000000000
+      internalID: 1740344766367694917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_11
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 338
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36bd95122f0e61b0800000000000000
+      internalID: -5661571042492172742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_12
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 349
+        width: 109
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffcc8c0a66c8f1010800000000000000
+      internalID: 1161801601296944383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 65
+        width: 30
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c95aa9c01ad14fb0800000000000000
+      internalID: -4665207973341406783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_14
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 65
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acf9374dbcc78a30800000000000000
+      internalID: 4217564689371626660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 65
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2c20a94dc595560800000000000000
+      internalID: 7302970338944664283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_16
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 66
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26604eb8abf6e3d00800000000000000
+      internalID: 954323018050700898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_17
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 97
+        width: 77
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea459302a8dcc0d0800000000000000
+      internalID: -3401105428215149853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_18
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 65
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ea62f6d80ee6900800000000000000
+      internalID: 679727491839340133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_19
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 134
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf7008e3af869fa0800000000000000
+      internalID: -5794285936430776355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_20
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 65
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e152d631d28eb30800000000000000
+      internalID: 4316749804293398076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_21
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 67
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b4cdda1e8de4cf0800000000000000
+      internalID: -266036864172143864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_22
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 66
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9cc89839e185550800000000000000
+      internalID: 6149698910191143346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_23
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 97
+        width: 77
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d25fe0caaf346b0800000000000000
+      internalID: -5313127518474785398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_24
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 65
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e790a84c5c7b980800000000000000
+      internalID: -8523126321855234529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_25
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 121
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0802e2a2ae9e116d0800000000000000
+      internalID: -3021376683049607040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_26
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 65
+        width: 81
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c2ad1c985e35e00800000000000000
+      internalID: 1032421119423556681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_27
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 66
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7b389334e5a4630800000000000000
+      internalID: 3912042869145450417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_28
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 68
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5945f2e7f71f5dd0800000000000000
+      internalID: -2495249315107878566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_29
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 65
+        width: 81
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb06dcd03333ad700800000000000000
+      internalID: 565820997556330687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_30
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 68
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61113e0999aab9df0800000000000000
+      internalID: -172356584186113770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_31
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 28
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b30ca5fbf681c780800000000000000
+      internalID: -8664495791367519304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_32
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 27
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82bcf44424b52e20800000000000000
+      internalID: 3325261967752213132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_33
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 27
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef77f0ac28ef6c80800000000000000
+      internalID: -8327181907607978009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_34
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 27
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321b5125bf9b39030800000000000000
+      internalID: 3500345824462090531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_35
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 27
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0d0addae59f1020800000000000000
+      internalID: 2314733569464914123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_36
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 28
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45fa627533d7b4e0800000000000000
+      internalID: -1965870485817592500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_37
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 22
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6137fbd9c03625a90800000000000000
+      internalID: -7326684737941048554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_38
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 27
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e5f2b7385690040800000000000000
+      internalID: 4614330908599606872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_39
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 28
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305112f5d03f9c830800000000000000
+      internalID: 4092068975198934275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_40
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 49
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefd6b6ad5353b490800000000000000
+      internalID: -7731744473570942994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_41
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 28
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359e93aa0f1f9bd50800000000000000
+      internalID: 6753695132169136467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_42
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 28
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a54c0352b16a170800000000000000
+      internalID: 8189262818965740061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_43
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 27
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8a3a6b9faec3740800000000000000
+      internalID: 5133236033527458029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_44
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 28
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250a86f7bef2cd2f0800000000000000
+      internalID: -946829133153263534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_45
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 27
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4104246f6cc6c3560800000000000000
+      internalID: 7294825098224222228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_46
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 49
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d5eacd810c8f7f0800000000000000
+      internalID: -578501339102945960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_47
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 28
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10da26bf7b19c6f0800000000000000
+      internalID: -663969234729381858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_48
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 22
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a57294b482805410800000000000000
+      internalID: 1463813385372202406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_49
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 28
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6258af3611dc40c30800000000000000
+      internalID: 4324807016758019366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_50
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 27
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c67d2535e98aaf50800000000000000
+      internalID: 6893473797176653508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_51
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 22
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d12b079d45c8520800000000000000
+      internalID: 2705630769018182936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_52
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 27
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b73fcddb4fbbe30800000000000000
+      internalID: 4520475747289365284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_53
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 28
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c74c33cbb58799c0800000000000000
+      internalID: -3920517909121841210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_54
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 27
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06fe18e792dedeb0800000000000000
+      internalID: -4693082211797240305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_55
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 28
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae74ab96c1e2d9b0800000000000000
+      internalID: -5056731188452622676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_56
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 27
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8158f7dbe19beb6e0800000000000000
+      internalID: -1819813657731693288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_57
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 28
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36ec5e46ac405770800000000000000
+      internalID: 8597455965813270078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_58
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 27
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccc350580064d5b0800000000000000
+      internalID: -5344541268958262074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_59
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 27
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93dc2116f8190dfa0800000000000000
+      internalID: -5777958276921373383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_60
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 28
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a3f1162661490c0800000000000000
+      internalID: -4570003110082168232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_61
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 28
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdb0449a32de2520800000000000000
+      internalID: 2679309977369230778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_62
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 22
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f8dfc570e5e1f80800000000000000
+      internalID: -8133960491266633942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_63
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 22
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58aaa9727b6f3e860800000000000000
+      internalID: 7558155866161719941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_64
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 28
+        width: 7
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b28ca7635fcd1730800000000000000
+      internalID: 3971558403539239609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_65
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 49
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5f63e5f75d55b70800000000000000
+      internalID: 8887244182703764917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_66
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 28
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a18d323d5a27ff0800000000000000
+      internalID: -39787120434865626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_67
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 27
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363453f957f204a80800000000000000
+      internalID: -8484729515737267357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_68
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 27
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54286d785b3c6aca0800000000000000
+      internalID: -6005897868616498619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_69
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 28
+        width: 7
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382831af17e5a1e60800000000000000
+      internalID: 7933757537186448003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_70
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 28
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708c2b5f1e9ea65a0800000000000000
+      internalID: -6527147553221064697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_71
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 28
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f46738011f995310800000000000000
+      internalID: 1394320455148987638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_72
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 27
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe18411d22d37f710800000000000000
+      internalID: 1726916201865839087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_73
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 28
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb9af20067066c10800000000000000
+      internalID: 2046331189634702309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_74
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 28
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abadf64fce00f8270800000000000000
+      internalID: 8254817659706661562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_75
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 27
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51f15c87f1391960800000000000000
+      internalID: 7573139187681063258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_76
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 27
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da50e6247f9d90540800000000000000
+      internalID: 4974746919402079661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_77
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 49
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849bffbf6784a7630800000000000000
+      internalID: 3925529701077989704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_78
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 28
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06dd0ae4fe1772d0800000000000000
+      internalID: -3281119766268488181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_79
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 27
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67c286b298bf4ca0800000000000000
+      internalID: -6030398435759044755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FGU_AI_LOGO1_80
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 27
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5855beb05daf23f80800000000000000
+      internalID: -8128158584515373691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
